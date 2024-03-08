@@ -1,0 +1,18 @@
+C:\Users\Madusanka\source\repos\Registration App\Registration App\bin\Debug\net8.0-windows\Registration App.exe
+C:\Users\Madusanka\source\repos\Registration App\Registration App\bin\Debug\net8.0-windows\Registration App.deps.json
+C:\Users\Madusanka\source\repos\Registration App\Registration App\bin\Debug\net8.0-windows\Registration App.runtimeconfig.json
+C:\Users\Madusanka\source\repos\Registration App\Registration App\bin\Debug\net8.0-windows\Registration App.dll
+C:\Users\Madusanka\source\repos\Registration App\Registration App\bin\Debug\net8.0-windows\Registration App.pdb
+C:\Users\Madusanka\source\repos\Registration App\Registration App\obj\Debug\net8.0-windows\Registration_App.Form1.resources
+C:\Users\Madusanka\source\repos\Registration App\Registration App\obj\Debug\net8.0-windows\Registration_App.Properties.Resources.resources
+C:\Users\Madusanka\source\repos\Registration App\Registration App\obj\Debug\net8.0-windows\Registration App.csproj.GenerateResource.cache
+C:\Users\Madusanka\source\repos\Registration App\Registration App\obj\Debug\net8.0-windows\Registration App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madusanka\source\repos\Registration App\Registration App\obj\Debug\net8.0-windows\Registration App.AssemblyInfoInputs.cache
+C:\Users\Madusanka\source\repos\Registration App\Registration App\obj\Debug\net8.0-windows\Registration App.AssemblyInfo.cs
+C:\Users\Madusanka\source\repos\Registration App\Registration App\obj\Debug\net8.0-windows\Registration App.csproj.CoreCompileInputs.cache
+C:\Users\Madusanka\source\repos\Registration App\Registration App\obj\Debug\net8.0-windows\Registration App.dll
+C:\Users\Madusanka\source\repos\Registration App\Registration App\obj\Debug\net8.0-windows\refint\Registration App.dll
+C:\Users\Madusanka\source\repos\Registration App\Registration App\obj\Debug\net8.0-windows\Registration App.pdb
+C:\Users\Madusanka\source\repos\Registration App\Registration App\obj\Debug\net8.0-windows\Registration App.genruntimeconfig.cache
+C:\Users\Madusanka\source\repos\Registration App\Registration App\obj\Debug\net8.0-windows\ref\Registration App.dll
+C:\Users\Madusanka\source\repos\Registration App\Registration App\obj\Debug\net8.0-windows\Registration_App.Form2.resources
